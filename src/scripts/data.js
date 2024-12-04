@@ -24,7 +24,7 @@ const posts = [
     img: "https://wellsvillesun.com/wp-content/uploads/2024/01/pride-and-prejudice-book-summary.jpg.webp",
   },
 ]
-
+//new cod
 const bloggers = [
   {
     id: 1,
